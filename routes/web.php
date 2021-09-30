@@ -70,9 +70,9 @@ Route::put('updateItem/{id}',[PostController::class,'updateItem'])->name('update
 
 
 
-// git init
-// git add .
-// git commit -m "users | items CRUD"
-// git branch -M main
-// git remote add origin git@github.com:Soukaina4621/App1---laravel.git
-// git push -u origin main
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Soukaina4621/users-items-CRUD.git
+git push -u origin main
